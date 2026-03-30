@@ -12,11 +12,10 @@ A personal website showcasing my web development projects and skills.Built using
 - CSS
 - JavaScript
 
+## Live Demo
+https://jawad-mhdiv.github.io/show_me_portfolio/
 ## Author
 Muhammad Jawad
-
-## URL
-https://jawad-mhdiv.github.io/show_me_portfolio/
 
 ## Contact
 muhjawadg@gmail.com
