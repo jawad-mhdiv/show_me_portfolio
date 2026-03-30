@@ -15,5 +15,8 @@ A personal website showcasing my web development projects and skills.Built using
 ## Author
 Muhammad Jawad
 
+## URL
+https://jawad-mhdiv.github.io/show_me_portfolio/
+
 ## Contact
 muhjawadg@gmail.com
